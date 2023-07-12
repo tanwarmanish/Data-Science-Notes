@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "Cascadia Code",
+  "monospaceFontFamily": "Fira Code",
+  "baseFontSize": 16,
+  "translucency": true
 }
