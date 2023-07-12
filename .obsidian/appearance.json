@@ -1,9 +1,11 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "interfaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "Microsoft Sans Serif",
   "textFontFamily": "Cascadia Code",
-  "monospaceFontFamily": "Fira Code",
+  "monospaceFontFamily": "Cascadia Mono",
   "baseFontSize": 16,
-  "translucency": true
+  "translucency": false,
+  "nativeMenus": true,
+  "showViewHeader": true
 }
